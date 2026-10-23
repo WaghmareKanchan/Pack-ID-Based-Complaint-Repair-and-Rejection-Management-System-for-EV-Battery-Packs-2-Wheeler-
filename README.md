@@ -1,0 +1,2 @@
+# Pack-ID-Based-Complaint-Repair-and-Rejection-Management-System-for-EV-Battery-Packs-2-Wheeler-
+A Pack ID based system to manage EV battery complaints for 2-wheelers. Complaints from email or dealers are registered with a priority, inspected, diagnosed, repaired or rejected, then tested (PDI and CDC) and dispatched. Every step is recorded against the Pack ID, giving safety, traceability and root-cause reports.
